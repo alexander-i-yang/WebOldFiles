@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body {
+    font-size: 13px;
+    /*You have to buy Tahoma to use it, so I went with good old Roboto*/
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    border: 10px solid #d0d0ff;
+    padding: 20px;
+}
+
+tr:last-child {
+    font-weight: bold;
+}
+tr:last-child td {
+    border-top: 2px solid black;
+}
+
+th.left-align {
+    text-align: left;
+    padding-right: 10px;
+}
+
+td:nth-child(6n+1) {padding-right: 10px;}
+
+td:nth-child(6n+4), td:nth-child(6n+5), td:nth-child(6n+6) {
+    text-align: center;
+    padding: 0 25px;
+}

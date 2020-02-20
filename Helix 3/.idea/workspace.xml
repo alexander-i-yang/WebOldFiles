@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d069da3-e538-4909-8f53-e7d66a2a1f20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/react-gh-pages/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-gh-pages/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-gh-pages/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/react-gh-pages/src/App.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-gh-pages/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2227">
+              <caret line="209" column="8" lean-forward="true" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#672#2903#0" />
+                <element signature="n#Card#0" />
+                <element signature="n#HelixCard#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-gh-pages/src/serviceWorker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-gh-pages/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>upgra</find>
+      <find>hoverCost</find>
+      <find>statpo</find>
+      <find>ExpCounter</find>
+      <find>xp</find>
+      <find>upgradeHover</find>
+      <find>upgradeClick</find>
+      <find>treeci</find>
+      <find>.draw</find>
+      <find>mapspa</find>
+      <find>const cards</find>
+      <find>items</find>
+      <find>space</find>
+      <find>ondrawcl</find>
+      <find>ondrawclick</find>
+      <find>maxstat</find>
+      <find>setStats</find>
+      <find>statsState</find>
+      <find>setPoints</find>
+      <find>setpoints</find>
+      <find>getcardstats</find>
+      <find>console</find>
+      <find>carddraw</find>
+      <find>placeholder</find>
+      <find>ability</find>
+      <find>resolveskill</find>
+      <find>maxcards</find>
+      <find>maxCards</find>
+      <find>placehol</find>
+      <find>maxdraw</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react-gh-pages" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/react-gh-pages/package.json" />
+        <option value="$PROJECT_DIR$/react-gh-pages/src/App.css" />
+        <option value="$PROJECT_DIR$/react-gh-pages/src/index.js" />
+        <option value="$PROJECT_DIR$/react-gh-pages/public/index.html" />
+        <option value="$PROJECT_DIR$/react-gh-pages/src/App.scss" />
+        <option value="$USER_HOME$/Downloads/Temp/Mondrian_Start/views/index.html" />
+        <option value="$USER_HOME$/Downloads/Temp/Mondrian_Start/static/css/index.css" />
+        <option value="$USER_HOME$/Downloads/Temp/Mondrian_Start Inline/views/index.html" />
+        <option value="$USER_HOME$/Downloads/Temp/Mondrian_Start Inline/static/css/index.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/react-gh-pages/src/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Helix 3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Helix 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Helix 3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Helix 3" type="462c0819:PsiDirectoryNode" />
+              <item name="react-gh-pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Helix 3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Helix 3" type="462c0819:PsiDirectoryNode" />
+              <item name="react-gh-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Helix 3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Helix 3" type="462c0819:PsiDirectoryNode" />
+              <item name="react-gh-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PycharmProjects\Helix 3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PycharmProjects\Helix 3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d069da3-e538-4909-8f53-e7d66a2a1f20" name="Default Changelist" comment="" />
+      <created>1567277528686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567277528686</updated>
+      <workItem from="1567277531898" duration="152000" />
+      <workItem from="1567277895639" duration="11703000" />
+      <workItem from="1567312650831" duration="29254000" />
+      <workItem from="1567443636349" duration="261000" />
+      <workItem from="1567445352515" duration="11004000" />
+      <workItem from="1567563832226" duration="1264000" />
+      <workItem from="1567619918088" duration="3462000" />
+      <workItem from="1567700107230" duration="614000" />
+      <workItem from="1567782120151" duration="626000" />
+      <workItem from="1568224395359" duration="26000" />
+      <workItem from="1576268672140" duration="876000" />
+      <workItem from="1576277526904" duration="221000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added icons to map">
+      <created>1567283446287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567283446287</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Map with adjacency checking">
+      <created>1567290429901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567290429901</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Map interactibility">
+      <created>1567370971012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567370971012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Responsiveness">
+      <created>1567446470071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567446470071</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Skill tree functionality">
+      <created>1567454251293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567454251293</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Max draw cards">
+      <created>1567459686793</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567459686793</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59463000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2774799" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.5021216" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" visible="true" weight="0.2602546" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added icons to map" />
+    <MESSAGE value="Map with adjacency checking" />
+    <MESSAGE value="Map interactibility" />
+    <MESSAGE value="Responsiveness" />
+    <MESSAGE value="Skill tree functionality" />
+    <MESSAGE value="Max draw cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max draw cards" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/src/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Temp/Mondrian_Start/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Temp/Mondrian_Start/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Mondrian_Start Inline.zip/static/css/index.css" />
+    <entry file="file://$USER_HOME$/Downloads/Temp/Mondrian_Start Inline/views/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/Temp/Mondrian_Start Inline/static/css/index.css" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/build/static/js/main.869d17d8.chunk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66839" selection-start-column="66839" selection-end-column="66839" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2227">
+          <caret line="209" column="8" lean-forward="true" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#672#2903#0" />
+            <element signature="n#Card#0" />
+            <element signature="n#HelixCard#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-gh-pages/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

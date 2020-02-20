@@ -1,0 +1,9 @@
+h1 {
+    color: black;
+}
+input[type="submit"] {
+    color: black;
+}
+.error {
+    color: red;
+}

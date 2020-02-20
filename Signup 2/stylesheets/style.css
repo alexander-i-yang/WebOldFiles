@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+.label {
+    color: blue;
+}
+
+input[type="submit"] {
+    background: lightblue;
+}
+
+.error {
+    color: red;
+}
+
+body {
+    background: green;
+}

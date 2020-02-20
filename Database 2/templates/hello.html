@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>HELLO WORLD</title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+  </head>
+  <body>
+  <h1>ASCII Art</h1>
+  <form method="post" action="/">
+    <div>
+      <div>Title</div>
+      <input type = "text" id="title" name="title"/>
+    </div>
+    <div>
+      <div>Art</div>
+      <textarea rows="10" cols="40" id="art" name="art"></textarea>
+    </div>
+    <>
+      <div>Favorite?</div>
+      <input type="checkbox" id="favorite" name="favorite"/>
+    </div>
+    <div class="error" style="color: red">{{error}}</div>
+    <input type="submit">
+  </form>
+  <div>
+    <h2>Art</h2>
+    {{art}}
+  </div>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+img {
+    height: 100px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    margin-top: 20px;
+    width: 150px;
+}
